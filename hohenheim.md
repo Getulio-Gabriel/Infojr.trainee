@@ -1,10 +1,17 @@
-Agente Hohenheim
------------
+Agente Gabriel 
+=========
 
 - Agente Shield
-- __Super Poder__: Super Fome;
+- __Super Poder__: Durmir e EStudar;
 - **Bag**:
     - 500 G;
     - Potion *x4*;
-    - Armadura de Latão.
-    - Frase: "Vocês não encontraram nenhum easterEgg na página da inscrção do Pluginfo"
+    - Caderno;
+    - Lapis;
+    - Canetas;
+    - Borracha;
+    - Frase: "Tenho que Passar em Discretas I!"
+- **Peso**;
+	- Só o da conciência;
+- __Força__;
+	- Apenas a da vantade;
